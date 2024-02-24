@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a5e0edc.css",
-    "main.js": "/static/js/main.dcbcf5ff.js",
-    "static/media/img_section_2.png": "/static/media/img_section_2.2da175581b28b1470545.png",
+    "main.css": "/static/css/main.c52b3516.css",
+    "main.js": "/static/js/main.f5761be2.js",
     "static/media/img_aniver.png": "/static/media/img_aniver.d79ab1b4400df391848f.png",
-    "static/media/wall_6.jpg": "/static/media/wall_6.989dd2dd3bf89627c307.jpg",
+    "static/media/wall_section2.jpg": "/static/media/wall_section2.e68ae3bc2c4252b33002.jpg",
     "static/media/img_consult.png": "/static/media/img_consult.41c92cca18bcb5a3a30a.png",
+    "static/media/wall_3.jpg": "/static/media/wall_3.7ddddd479373cccb032c.jpg",
+    "static/media/icon_header.png": "/static/media/icon_header.b52e70b22fa3200e2d65.png",
     "static/media/stefanini_logos_clientes-PhotoRoom 1.svg": "/static/media/stefanini_logos_clientes-PhotoRoom 1.a0cc43c7cf5626c1c65a7f086f782c69.svg",
     "static/media/finagro_logos_clientes-PhotoRoom 1.svg": "/static/media/finagro_logos_clientes-PhotoRoom 1.f3e044d781cbd7f09eec6a2bf4f4f40f.svg",
     "static/media/unisono_logos_clientes-PhotoRoom 1.svg": "/static/media/unisono_logos_clientes-PhotoRoom 1.412389f81aea992d2d8962e1fe5234d9.svg",
     "static/media/tivit_logos_clientes-PhotoRoom 1.svg": "/static/media/tivit_logos_clientes-PhotoRoom 1.e284c68192a2c0ad0fb73a0d29eb004b.svg",
     "static/media/tullave_sitp_logos_clientes-PhotoRoom 1.svg": "/static/media/tullave_sitp_logos_clientes-PhotoRoom 1.19fa769e37efc1c04aea57bc6feb6b6d.svg",
     "index.html": "/index.html",
-    "main.6a5e0edc.css.map": "/static/css/main.6a5e0edc.css.map",
-    "main.dcbcf5ff.js.map": "/static/js/main.dcbcf5ff.js.map"
+    "main.c52b3516.css.map": "/static/css/main.c52b3516.css.map",
+    "main.f5761be2.js.map": "/static/js/main.f5761be2.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a5e0edc.css",
-    "static/js/main.dcbcf5ff.js"
+    "static/css/main.c52b3516.css",
+    "static/js/main.f5761be2.js"
   ]
 }
