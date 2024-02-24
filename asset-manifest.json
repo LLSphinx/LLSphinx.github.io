@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c52b3516.css",
+    "main.css": "/static/css/main.cbfda709.css",
     "main.js": "/static/js/main.f5761be2.js",
     "static/media/img_aniver.png": "/static/media/img_aniver.d79ab1b4400df391848f.png",
     "static/media/wall_section2.jpg": "/static/media/wall_section2.e68ae3bc2c4252b33002.jpg",
@@ -13,11 +13,11 @@
     "static/media/tivit_logos_clientes-PhotoRoom 1.svg": "/static/media/tivit_logos_clientes-PhotoRoom 1.e284c68192a2c0ad0fb73a0d29eb004b.svg",
     "static/media/tullave_sitp_logos_clientes-PhotoRoom 1.svg": "/static/media/tullave_sitp_logos_clientes-PhotoRoom 1.19fa769e37efc1c04aea57bc6feb6b6d.svg",
     "index.html": "/index.html",
-    "main.c52b3516.css.map": "/static/css/main.c52b3516.css.map",
+    "main.cbfda709.css.map": "/static/css/main.cbfda709.css.map",
     "main.f5761be2.js.map": "/static/js/main.f5761be2.js.map"
   },
   "entrypoints": [
-    "static/css/main.c52b3516.css",
+    "static/css/main.cbfda709.css",
     "static/js/main.f5761be2.js"
   ]
 }
