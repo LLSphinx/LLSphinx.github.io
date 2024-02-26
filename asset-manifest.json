@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.cbfda709.css",
-    "main.js": "/static/js/main.f5761be2.js",
+    "main.css": "/static/css/main.45afe678.css",
+    "main.js": "/static/js/main.3f487c36.js",
     "static/media/img_aniver.png": "/static/media/img_aniver.d79ab1b4400df391848f.png",
     "static/media/wall_section2.jpg": "/static/media/wall_section2.e68ae3bc2c4252b33002.jpg",
     "static/media/img_consult.png": "/static/media/img_consult.41c92cca18bcb5a3a30a.png",
     "static/media/wall_3.jpg": "/static/media/wall_3.7ddddd479373cccb032c.jpg",
     "static/media/icon_header.png": "/static/media/icon_header.b52e70b22fa3200e2d65.png",
+    "static/media/img_about.png": "/static/media/img_about.6135010afd0d20e3ad3a.png",
     "static/media/stefanini_logos_clientes-PhotoRoom 1.svg": "/static/media/stefanini_logos_clientes-PhotoRoom 1.a0cc43c7cf5626c1c65a7f086f782c69.svg",
     "static/media/finagro_logos_clientes-PhotoRoom 1.svg": "/static/media/finagro_logos_clientes-PhotoRoom 1.f3e044d781cbd7f09eec6a2bf4f4f40f.svg",
     "static/media/unisono_logos_clientes-PhotoRoom 1.svg": "/static/media/unisono_logos_clientes-PhotoRoom 1.412389f81aea992d2d8962e1fe5234d9.svg",
     "static/media/tivit_logos_clientes-PhotoRoom 1.svg": "/static/media/tivit_logos_clientes-PhotoRoom 1.e284c68192a2c0ad0fb73a0d29eb004b.svg",
     "static/media/tullave_sitp_logos_clientes-PhotoRoom 1.svg": "/static/media/tullave_sitp_logos_clientes-PhotoRoom 1.19fa769e37efc1c04aea57bc6feb6b6d.svg",
     "index.html": "/index.html",
-    "main.cbfda709.css.map": "/static/css/main.cbfda709.css.map",
-    "main.f5761be2.js.map": "/static/js/main.f5761be2.js.map"
+    "main.45afe678.css.map": "/static/css/main.45afe678.css.map",
+    "main.3f487c36.js.map": "/static/js/main.3f487c36.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbfda709.css",
-    "static/js/main.f5761be2.js"
+    "static/css/main.45afe678.css",
+    "static/js/main.3f487c36.js"
   ]
 }
